@@ -28,7 +28,7 @@
 
 ![](https://github.com/Werayootk/Redux-book-store/blob/main/images/book.gif)
 
-This project create for practice React-ROUTER skill.
+This project create for practice React-Redux skill.
 
 ### Built With
 
@@ -55,7 +55,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone this repo
    ```sh
-   git clone https://github.com/Your_username/React-router-quote-comment.git
+   git clone https://github.com/Your_username/Redux-book-store.git
    ```
 2. Install NPM packages
    ```sh
