@@ -1,4 +1,5 @@
 # Redux-book-store
+[Live Demo](https://book-store-wedev.netlify.app/)
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
